@@ -12,8 +12,8 @@ In this part of the course we build an EggTimer, so we can set a fixed amount of
 - 🐞 How to Debug you app
 
   
-  #### :es:
-  La finalidad de este proyecto es aprender a construir un temporizador para hacer huevitos 🥚 cocidos, que queden como más te gusten 🥺 y de paso, aprender como funcionan los flujos de control, las declaraciones IF/ELSE, las declaraciones SWITCH, los diccionarios y un montón de cositas más.
+#### :es:
+La finalidad de este proyecto es aprender a construir un temporizador para hacer huevitos 🥚 cocidos, que queden como más te gusten 🥺 y de paso, aprender como funcionan los flujos de control, las declaraciones IF/ELSE, las declaraciones SWITCH, los diccionarios y un montón de cositas más.
 - 🏗️ Establecer la estructura del proyecto
 - 🤔 Declaraciones IF/ELSE
 - 🛤️ Declaraciones Switch 
