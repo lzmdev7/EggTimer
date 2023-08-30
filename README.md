@@ -3,6 +3,7 @@ Another project on the iOS Course by Angela Yu / Otro proyecto proyecto del curs
 
 #### :uk:
 In this part of the course we build an EggTimer, so we can set a fixed amount of time depending on how we like our boiled eggs 🥚. The aim of this project is to learn how control flows work alongside the IF/ELSE statements, Switch statements, dictionaries and a whole lot of things.
+
 p.s: For obvious reasons, the project uses seconds instead of minutes, so to have it working as intended that property MUST be changed accordingly.
 
 - 🏗️ Setup the Skeleton Project
@@ -18,6 +19,7 @@ p.s: For obvious reasons, the project uses seconds instead of minutes, so to hav
   
 #### :es:
 La finalidad de este proyecto es aprender a construir un temporizador para hacer huevitos 🥚 cocidos, que queden como más te gusten 🥺 y de paso, aprender como funcionan los flujos de control, las declaraciones IF/ELSE, las declaraciones SWITCH, los diccionarios y un montón de cositas más.
+
 p.d: Por razones obvias creo yo, el proyecto utiliza segundos en lugar de minutos, por lo que para que funcione según lo previsto, esa propiedad DEBE cambiarse en consecuencia
 
 - 🏗️ Establecer la estructura del proyecto
